@@ -9,12 +9,15 @@ namespace Lambda_capture
 		{
 			for (int i = 0; i < 10; i++) 
 			{
-				// int number = i;
+				int number = i;
 				Thread t = new Thread (() => {
-					Console.WriteLine (i);
-				});
+                    //Console.WriteLine(i); // random result
+                    Console.WriteLine(number); // sequential result
+                });
 				t.Start ();
 			}
-		}
-	}
+
+            Console.ReadLine();
+        }
+    }
 }

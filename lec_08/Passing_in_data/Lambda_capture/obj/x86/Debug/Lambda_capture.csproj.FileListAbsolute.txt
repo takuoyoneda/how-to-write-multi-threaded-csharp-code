@@ -1,0 +1,5 @@
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_08\Passing_in_data\Lambda_capture\bin\Debug\Lambda_capture.exe
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_08\Passing_in_data\Lambda_capture\bin\Debug\Lambda_capture.pdb
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_08\Passing_in_data\Lambda_capture\obj\x86\Debug\Lambda_capture.csprojResolveAssemblyReference.cache
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_08\Passing_in_data\Lambda_capture\obj\x86\Debug\Lambda_capture.exe
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_08\Passing_in_data\Lambda_capture\obj\x86\Debug\Lambda_capture.pdb
