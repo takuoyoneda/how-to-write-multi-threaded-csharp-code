@@ -1,4 +1,0 @@
-D:\Personal\git\how-to-write-multi-threaded-csharp-code\multi_threading\multi_threading\bin\Debug\multi_threading.exe
-D:\Personal\git\how-to-write-multi-threaded-csharp-code\multi_threading\multi_threading\bin\Debug\multi_threading.pdb
-D:\Personal\git\how-to-write-multi-threaded-csharp-code\multi_threading\multi_threading\obj\x86\Debug\multi_threading.exe
-D:\Personal\git\how-to-write-multi-threaded-csharp-code\multi_threading\multi_threading\obj\x86\Debug\multi_threading.pdb

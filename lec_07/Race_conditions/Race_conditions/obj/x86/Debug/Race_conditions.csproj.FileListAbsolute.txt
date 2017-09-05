@@ -1,0 +1,5 @@
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_07\Race_conditions\Race_conditions\bin\Debug\Race_conditions.exe
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_07\Race_conditions\Race_conditions\bin\Debug\Race_conditions.pdb
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_07\Race_conditions\Race_conditions\obj\x86\Debug\Race_conditions.csprojResolveAssemblyReference.cache
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_07\Race_conditions\Race_conditions\obj\x86\Debug\Race_conditions.exe
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_07\Race_conditions\Race_conditions\obj\x86\Debug\Race_conditions.pdb

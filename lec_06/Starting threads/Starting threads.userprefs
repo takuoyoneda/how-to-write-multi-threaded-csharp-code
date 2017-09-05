@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Thread_Example_2\Thread_Example_2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Thread_Example_2\Program.cs">
+    <Files>
+      <File FileName="Thread_Example_2\Program.cs" Line="19" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/home/mdfarragher/Projects/Thread_Example_1/Thread_Example_2/Program.cs" line="30" column="1" />
+      <Breakpoint enabled="false" file="/home/mdfarragher/Projects/Starting threads/Thread_Example_2/Program.cs" line="30" column="1" />
+      <Breakpoint file="D:\Personal\git\how-to-write-multi-threaded-csharp-code\Starting threads\Thread_Example_2\Program.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

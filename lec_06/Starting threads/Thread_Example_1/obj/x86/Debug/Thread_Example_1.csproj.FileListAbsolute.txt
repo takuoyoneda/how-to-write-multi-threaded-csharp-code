@@ -1,0 +1,7 @@
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\Starting threads\Thread_Example_1\obj\x86\Debug\Thread_Example_1.csprojResolveAssemblyReference.cache
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\Starting threads\Thread_Example_1\bin\Debug\Thread_Example_1.exe
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\Starting threads\Thread_Example_1\bin\Debug\Thread_Example_1.pdb
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\Starting threads\Thread_Example_1\obj\x86\Debug\Thread_Example_1.exe
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\Starting threads\Thread_Example_1\obj\x86\Debug\Thread_Example_1.pdb
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_06\Starting threads\Thread_Example_1\obj\x86\Debug\Thread_Example_1.exe
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_06\Starting threads\Thread_Example_1\obj\x86\Debug\Thread_Example_1.pdb

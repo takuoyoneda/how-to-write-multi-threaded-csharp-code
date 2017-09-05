@@ -1,0 +1,4 @@
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_06\Starting threads\Thread_Example_2\bin\Release\Thread_Example_2.exe
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_06\Starting threads\Thread_Example_2\bin\Release\Thread_Example_2.pdb
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_06\Starting threads\Thread_Example_2\obj\x86\Release\Thread_Example_2.exe
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_06\Starting threads\Thread_Example_2\obj\x86\Release\Thread_Example_2.pdb
