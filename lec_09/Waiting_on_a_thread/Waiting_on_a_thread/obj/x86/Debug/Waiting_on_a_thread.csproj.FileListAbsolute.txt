@@ -1,0 +1,4 @@
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_09\Waiting_on_a_thread\Waiting_on_a_thread\bin\Debug\Waiting_on_a_thread.exe
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_09\Waiting_on_a_thread\Waiting_on_a_thread\bin\Debug\Waiting_on_a_thread.pdb
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_09\Waiting_on_a_thread\Waiting_on_a_thread\obj\x86\Debug\Waiting_on_a_thread.exe
+D:\Personal\git\how-to-write-multi-threaded-csharp-code\lec_09\Waiting_on_a_thread\Waiting_on_a_thread\obj\x86\Debug\Waiting_on_a_thread.pdb
